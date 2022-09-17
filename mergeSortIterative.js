@@ -1,3 +1,6 @@
+//Michael Stoll
+//W09860657
+
 function mergeSortIterative(arr)
 {
 	var dubNum = 0;
